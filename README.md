@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavan Kumar N — Data Analyst | 🐍 Python Enthusiast | 🤖 Aspiring ML Engineer
 
-Welcome to my GitHub! I'm a data professional with 2.5 years of experience transforming raw data into actionable insights using SQL, Python, and interactive dashboards. I specialize in building powerful data tools and visualizations to support business strategy and decision-making.
+Welcome to my GitHub! I'm a data professional with 4 years of experience transforming raw data into actionable insights using SQL, Python, and interactive dashboards. I specialize in building powerful data tools and visualizations to support business strategy and decision-making.
 
 ---
 
