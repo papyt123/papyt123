@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Pavan Kumar N — Data Analyst | 🐍 Python Enthusiast | 🤖 Aspiring ML Engineer
+# 👋 Hi, I'm Pavan Kumar — Data Analyst | 🐍 Python Enthusiast | 🤖 Aspiring AI Engineer
 
-Welcome to my GitHub! I'm a data professional with 4 years of experience transforming raw data into actionable insights using SQL, Python, and interactive dashboards. I specialize in building powerful data tools and visualizations to support business strategy and decision-making.
+Welcome to my GitHub! I'm a data professional with proven expertise transforming raw data into actionable insights using SQL, Python, and interactive dashboards. I specialize in building powerful data tools and visualizations to support business strategy and decision-making.
 
 ---
 
 ## 🔍 About Me
 
-- 🧠 Strong analytical thinker with a solid foundation in **SQL** and **Python (Pandas, NumPy)**.
+- 🧠 Strong analytical thinker with a solid foundation in **SQL** and **Python(well versed in ML libraries)**.
 - 📊 Built impactful dashboards and reports using **Tableau**, **Power BI**, and **Oracle Analytics Cloud**.
 - 🏢 Worked with industry leaders like **TIAA**, **Tata Consultancy Services**, and **Alcon Inc.**
 - 🤝 Skilled in cross-functional collaboration, turning business questions into data-driven answers.
