@@ -16,10 +16,11 @@
 ---
 
 ## 🚀 About Me
-- Building end-to-end data pipelines using **Python, SQL, AWS, Redshift, and PostgreSQL**
-- Focused on **data ingestion, transformation, validation, orchestration, and warehouse loading**
-- Interested in **production-style data engineering workflows, reliability, and scalable pipeline design**
-- Proud alumnus of the **University of Texas at Arlington**
+- Data Engineer focused on building reliable cloud-based data pipelines, transformation workflows, and analytics-ready data solutions for enterprise environments
+- Contributed to **FinTech and product-based business environments** by delivering data workflows that supported reporting, operational decision-making, and analytics consumption
+- Experienced in building and supporting **event-driven, batch, and warehouse-loading workflows** that improve data quality, operational reliability, and downstream reporting
+- Strong focus on clean system design, production-grade pipeline patterns, and scalable data engineering solutions
+- Proud alumnus of the **University of Texas at Arlington, College of Business**
 
 ---
 
@@ -87,11 +88,9 @@
 ---
 
 ## 📌 Featured Projects
-### 🔹 Project One
-Short description goes here.
-
-### 🔹 Project Two
-Short description goes here.
+### 🔹 YouTube API ELT Pipeline
+End-to-end ELT pipeline that extracts YouTube channel metadata through the YouTube API, loads raw data into PostgreSQL staging tables, applies transformation logic into core analytical layers, and supports orchestration, containerization, and testing using Python, Docker, Airflow, pytest, and Soda Core.  
+*Inspired by and adapted from an instructor-guided project by Matthew Schembri and further developed through my own hands-on-work, implementation, modifications, and ongoing extensions.*
 
 ---
 
